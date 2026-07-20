@@ -47,12 +47,12 @@ A análise focada nos clusters bem definidos demonstrou que os clientes que canc
 ---
 
 ## Tecnologias Utilizadas
-* **Linguagem & Dados:** Python, Pandas, Scikit-Learn, SciPy
-* **Machine Learning:** HDBSCAN, Gradient Boosting (Modelo de Churn preditivo/informativo)
-* **Cloud (Microsoft Azure):** Blob Storage, Azure Functions, Azure Container Apps, KEDA
-* **Disponibilização & GenAI:** Flask, OpenAI API (GPT-4)
-* **Visualização:** Power BI, Matplotlib, Seaborn, Plotly (t-SNE/PCA)
-* **Gestão:** ClickUp
+* **Linguagem & Dados:** Python, Pandas, Scikit-Learn, SciPy.
+* **Machine Learning:** HDBSCAN, Gradient Boosting (Modelo de Churn preditivo/informativo).
+* **Cloud (Microsoft Azure):** Blob Storage, Azure Functions, Azure Container Apps, KEDA.
+* **Disponibilização & GenAI:** Flask, OpenAI API (GPT-4).
+* **Visualização:** Power BI, Matplotlib, Seaborn, Plotly (t-SNE/PCA).
+* **Gestão:** ClickUp.
 
 ---
 
